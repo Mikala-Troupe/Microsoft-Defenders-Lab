@@ -1,4 +1,4 @@
-# Microsoft Lab
+# Microsoft Defenders Lab
 
 ## Objective
 
